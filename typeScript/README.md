@@ -1,13 +1,8 @@
 # Car Organizer Bot
-## The easiest way to organize cars for a trip
-
-This bot offer an easy way to organize a trip with friends or colleagues.
-Create a new trip and add some available cars and ready to go!
-
 
 ## Telegram Bot
 
-This code is the backend of a bot named [@car_organizer_bot](http://telegram.me/car_organizer_bot).
+This code in node is the backend of a bot named [@car_organizer_bot](http://telegram.me/car_organizer_bot).
 In order to run the bot locally you must create a file named `.env`
 
 With the Token of the bot.
@@ -45,3 +40,7 @@ docker run -v ~/archive:/archive -d car_organizer:latest
 Click on the buttont 'Add`.
 
 Select the car you want to join.
+
+## Slack Bot
+Also the code for the slack bot is present.
+Additional information on how to start it and on the different programming languages on which is it written will be avalaible soon.
